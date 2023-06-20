@@ -1,0 +1,36 @@
+body {
+  background-color: #f7f7f7;
+}
+
+.container {
+  max-width: 1248px;
+  margin: 20px auto;
+  padding: 40px;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  background-color: white;
+  box-sizing: border-box;
+  min-height: 95vh;
+}
+
+.title {
+  text-align: center;
+}
+
+.main {
+  display: inline-block;
+  text-align: left;
+}
+
+.header {
+  color: #005a5a;
+}
+
+.row {
+  margin-bottom: 10px;
+}
+
+.fas,
+.far {
+  margin-right: 10px;
+}
